@@ -1,0 +1,21 @@
+.list1{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.box2{
+    padding: 10px;
+    margin-left: 20px;
+    background-color: rgb(255, 255, 255); 
+    outline-color: rgb(255, 255, 255);
+    position: relative;
+}
+
+.titel1{
+    margin: 0%;
+    margin-bottom: 10px;
+}
+
+.beschrijving1{
+    margin: 0px;
+}
